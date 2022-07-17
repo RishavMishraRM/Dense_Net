@@ -1,3 +1,3 @@
 # Dense_Net
 
-Densenet_Implementation
+DenseNet-121-on-Custom-Dataset
