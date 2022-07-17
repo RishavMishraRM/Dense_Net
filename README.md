@@ -1,3 +1,3 @@
 # Dense_Net
 
-DenseNet-121-on-Custom Dataset
+DenseNet-121-on Custom Dataset
